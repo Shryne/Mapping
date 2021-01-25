@@ -1,4 +1,4 @@
-package com.shryne.annotation;
+package com.shryne.processing;
 
 import javax.annotation.processing.AbstractProcessor;
 import javax.annotation.processing.RoundEnvironment;
