@@ -25,7 +25,7 @@ import static com.google.testing.compile.Compiler.javac;
  * }
  * </pre>
  */
-public class BasicTest {
+public final class BasicTest {
     @Test
     public void singleVariable() {
         final Compilation compilation = javac()
